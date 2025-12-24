@@ -1,0 +1,56 @@
+Project Title
+
+Student Grade Calculator (Python)
+
+🔹 Description
+
+This is a beginner-friendly Python project that calculates student grades based on marks entered by the user. It validates inputs, assigns grades, and provides class-level statistics.
+
+🔹 Technologies Used
+
+Python 3.x
+
+VS Code (Recommended)
+
+🔹 How to Run the Project
+
+Install Python from https://www.python.org/
+
+Open VS Code or any Python editor
+
+Save the file as grade_calculator.py
+
+Run the program:
+
+python grade_calculator.py
+🔹 Learning Outcomes
+
+Function creation
+
+Input validation
+
+List and dictionary usage
+
+Conditional logic
+
+Error handling
+
+Formatting output
+
+🔹 Author
+
+Shivani
+
+🔹 Future Enhancements
+
+Add more subjects
+
+Save results to a file
+
+Add percentage calculation
+
+GUI using Tkinter
+
+✅ Conclusion
+
+This project strengthens Python fundamentals and builds confidence in writing structured programs. It is a strong addition to beginner portfolios and resumes.
